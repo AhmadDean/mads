@@ -339,4 +339,4 @@ client.on('message', message => { if (message.author.x5bz) return; if (!message.
 
 
 
-client.login("Token");
+client.login("NTIyNTE3NzczNDkxMTA5OTAz.DvMIjQ.E3yxQcruR8kAhWQs65LBuoU1vAw");
